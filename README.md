@@ -1,6 +1,4 @@
-# google-ads-disapproval-checker-mcc
-Scans client accounts under a Google Ads Manager (MCC) for disapproved Ads, Keywords,
-# ⚠ Google Ads Disapprovals — MCC-Level Alert Script
+# ⚠ Google Ads Disapproval Checker for Ads and Keywords — MCC-Level Alert Script
 
 A Google Ads Script that monitors **disapprovals for Ads, Keywords, and Extensions** across all accounts in a Manager Account (MCC).
 It automatically groups accounts by label and emails a per-label report to the assigned recipient(s).  
@@ -20,7 +18,6 @@ Perfect for **agencies** or **large in-house teams** managing multiple accounts.
 ---
 
 ## Setup Instructions
-
 1. **In your MCC account**:  
    Go to **Tools & Settings → Bulk Actions → Scripts → + New Script**.
 
@@ -41,10 +38,11 @@ Perfect for **agencies** or **large in-house teams** managing multiple accounts.
 
 6. Make sure to label your accounts, For example: "Managed by Sam".
 
+7. Schedule to run weekly or however often you deem fit.
+
 ---
 
 ## Example Email Output
-
 Subject:
 ```
 ⚠ Disapprovals — (Managed by Sam) — Ads: 2, KW: 1, Assets: 0
@@ -69,12 +67,9 @@ If no disapprovals are found:
 ---
 
 ## Author
-
-**Sam Lalonde**  
-[LinkedIn](https://www.linkedin.com/in/samlalonde/)  
+[Sam Lalonde](https://www.linkedin.com/in/samlalonde/)  
 ---
 
 ## License
-
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).  
 Free to use, modify, and distribute.
