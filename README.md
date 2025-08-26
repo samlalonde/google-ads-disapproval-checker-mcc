@@ -1,4 +1,4 @@
-# ⚠ Google Ads Disapproval Checker for Ads and Keywords — MCC-Level Alert Script
+# ⚠ Google Ads Disapproval Checker for Ads and Keywords | MCC-Level Alert Script
 
 A Google Ads Script that monitors **disapprovals for Ads, Keywords, and Extensions** across all accounts in a Manager Account (MCC).
 It automatically groups accounts by label and emails a per-label report to the assigned recipient(s).  
