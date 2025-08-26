@@ -71,7 +71,7 @@ If no disapprovals are found:
 ## Author
 
 **Sam Lalonde**  
-Founder, [SAMTECH Media Inc.](https://www.linkedin.com/in/samlalonde/)  
+[LinkedIn](https://www.linkedin.com/in/samlalonde/)  
 ---
 
 ## License
