@@ -15,6 +15,10 @@ Perfect for **agencies** or **large in-house teams** managing multiple accounts.
 - **Always sends an email**, even if there are zero disapprovals (for peace of mind).
 - Email subject line summarizes counts for quick triage.
 
+Importantly, by labelling your accounts you can assign email adresses to receive alerts. You can have multiple labels and multiple recipients.
+For example, if you had 5 Campaign or Account Managers could label their accouns AM - Sam or CM - Fred and assign specific email recipients.
+It's an efficient way to ensure your Account/Campaign managers are consistently receiving disapproval alerts.
+
 ---
 
 ## Setup Instructions
