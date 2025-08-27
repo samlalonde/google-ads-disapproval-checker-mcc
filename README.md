@@ -32,7 +32,7 @@ It's an efficient way to ensure your Account/Campaign managers are consistently 
    - `LABEL_RECIPIENTS`: map account labels to recipient(s).  
      Example:
      ```javascript
-     { label: 'Managed by Sam', to: 'sam@example.com', cc: '' }
+     { label: 'Managed by Sam', to: 'sam@example.com', cc: 'another@example.com' }
      ```
    - Add as many label/recipient mappings as needed.
 
